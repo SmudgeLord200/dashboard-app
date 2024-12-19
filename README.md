@@ -3,7 +3,8 @@
 2. cd to both frontend and backend folder
 3. On the frontend, run "npm run dev" to start the frontend service
 4. On the backend, run "npm start" to start the provided backend service
-5. There you have it
+5. If either won't work, run "npm install" first
+6. There you have it
 
 # Discussion Points
 This project is built using React, TypeScript, Material UI, Recharts, and Vite. 
